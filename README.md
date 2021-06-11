@@ -2,4 +2,4 @@
 |                  Title      |  Source      |              Description                        |           Models          |              Libraries used         |
 |-----------------------------|--------------|-------------------------------------------------|---------------------------|-------------------------------------|
 | Financial_Loan_dataset      |  Kaggle      |This work predicts whether the applicant is eligible for a loan or not using Classification algorithms, this is a binary classification problem| Random Foreest Classifier| Python , Pandas, NumPy, Scikit-learn, Plotly|
-| Financial_income_prediction |
+| Financial_income_prediction |       Independent       |This work classifies the workers based on their income using classification algorithm| Random Forest classifier, XGboost, Logistic regression| Python, Pandas, NumPy, Scikit-Learn, plotly, seaborn|
