@@ -1,5 +1,11 @@
 # datascience
 |                  Title      |  Source      |              Description                        |           Models          |              Libraries used         |
 |-----------------------------|--------------|-------------------------------------------------|---------------------------|-------------------------------------|
-| Financial_Loan_dataset      |  Kaggle      |This work predicts whether the applicant is eligible for a loan or not using Classification algorithms, this is a binary classification problem| Random Foreest Classifier| Python , Pandas, NumPy, Scikit-learn, Plotly|
+| Financial_Loan_dataset      |  Kaggle      |This work predicts whether the applicant is eligible for a loan or not using Classification algorithms, this is a binary classification problem| Random Forest Classifier| Python , Pandas, NumPy, Scikit-learn, Plotly|
 | Financial_income_prediction |       Independent       |This work classifies the workers based on their income using classification algorithm| Random Forest classifier, XGboost, Logistic regression| Python, Pandas, NumPy, Scikit-Learn, plotly, seaborn|
+| IRIS_flower_classification | Kaggle | This work is a classification of the IRIS flowers into 3 categories namely IRIS-setosa, IRIS-virginica, IRIS-versicolor based on their properties| Random Forest classifier, Decision Trees, Logistic regression| Python, pandas, NumPy, Scikit-Learn, Plotly|
+| Titanic_survival_prediction| Kaggle | This work focuses on the classifying people on whether they survived the sinking of RMS Titanic using classification algorithms| Random Forest classifier| Python, Pandas, NumPy, Scikit-Learn, plotly, seaborn |
+| Housing_California_house_price_prediction | independent | In this project prediction algorithms are used to predict the prices of houses in the state of california in USA with respect to various parameters | Random Forest Regressor, Linear regression,  Lasso regression| Python, Pandas, NumPy, Scikit-Learn, plotly, seaborn|
+| Mnist_image_classification | Kaggle | THe project deals with the classification of handwritten number images from 0 to 9  | Random forest classifier, decision trees, Convolution Neural network | Python, Pandas, NumPy, Scikit-Learn, plotly, seaborn|
+| Vehicle_price_prediciton   | Independent | This work deals with the preddiction of prices of used vehicles in USA based on various properties like age, mileage, etc| Random Forest regressor, linear regression, Lasso regression| Python, Pandas, NumPy, Scikit-Learn, plotly, seaborn|
+ 
